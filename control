@@ -1,0 +1,9 @@
+Package: com.kushy.bestdrmeva
+Name: KushyDRM
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: best drm ever lol ?
+Maintainer: kushy
+Author: kushy
+Section: Tweaks
