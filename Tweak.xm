@@ -19,7 +19,7 @@ NSBundle *audio = [NSBundle bundleWithPath:@"/Library/Application Support/kushyd
 -(void)applicationDidFinishLaunching:(id)arg1 {
 
     %orig;
-
+                                                                           /*Replace This */
 if ([[NSFileManager defaultManager] fileExistsAtPath:@"/var/lib/dpkg/info/com.kushy.bestdrmeva.list"])
 {
 
